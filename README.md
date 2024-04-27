@@ -1,7 +1,7 @@
 # atom2024
-MSSE Capstone 2024 - ATOM
+MSSE Capstone 2024 - ATOM NEK 3 and NEK 5
 
-About
+Radhika Sahia
 
 ## Setup
 
